@@ -1,3 +1,3 @@
 # phpmysql-app
-An Ecoomm app built on PHP &amp; MySQL  
+An E-comm app built on PHP & lamp; MySQL  
 
